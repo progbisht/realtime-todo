@@ -68,7 +68,7 @@ This app support adding, updating and deleting the same list from multiple tabs 
 
 
 ## Folder Structure
- 
+```
 todolist/
 │
 ├── todo-client/             # Frontend React.js application
@@ -87,4 +87,4 @@ todolist/
 │   └── server.js
 │
 └── README.md
-
+```
